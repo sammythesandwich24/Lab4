@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Lab4, Configuration: Debug Win32 ------
+1>Lab4.cpp
+1>C:\Users\samru\source\repos\Lab4\Lab4.cpp(16): fatal error C1075: '{': no matching token found
+1>Done building project "Lab4.vcxproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
